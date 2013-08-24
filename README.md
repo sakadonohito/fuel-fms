@@ -6,6 +6,7 @@ Sample of use to FileMaker on fuelphp
 Usage
 =======
 誰か英訳お願いします。
+
 1. FileMakerServerにファイルをアップロードします。
 2. FileMakerはXMLの拡張アクセス権は忘れずに。
 3. fuelphpを任意のweb用ディレクトリに配置します。設定はお任せします。
